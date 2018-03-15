@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="SlidingTabs">
+    <attr name="count" format="integer"/>
+    <attr name="signCount" format="integer"/>
+    <attr name="marginLeft" format="dimension"/>
+    <attr name="textColor" format="reference|color"/>
+    <attr name="textSize" format="dimension"/>
+    <attr name="circleColor" format="color|reference"/>
+    <attr name="circleRadius" format="dimension"/>
+  </declare-styleable>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical"
+  tools:context="module.step.com.stepview.MainActivity"
+  >
+
+  <module.step.com.stepview.StepView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    app:circleColor="@color/blue"
+    app:circleRadius="16dip"
+    app:count="2"
+    app:marginLeft="90dip"
+    app:signCount="12"
+    app:textColor="@color/white"
+    app:textSize="14sp"
+    />
+
+  <module.step.com.stepview.StepView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    app:circleColor="@color/blue"
+    app:circleRadius="16dip"
+    app:count="3"
+    app:marginLeft="50dip"
+    app:signCount="12"
+    app:textColor="@color/white"
+    app:textSize="14sp"
+    />
+
+  <module.step.com.stepview.StepView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    app:circleColor="@color/blue"
+    app:circleRadius="16dip"
+    app:count="4"
+    app:marginLeft="30dip"
+    app:signCount="9"
+    app:textColor="@color/white"
+    app:textSize="14sp"
+    />
+
+  <module.step.com.stepview.StepView
+    android:id="@+id/stepView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    app:circleColor="@color/blue"
+    app:circleRadius="16dip"
+    app:count="5"
+    app:marginLeft="10dip"
+    app:signCount="7"
+    app:textColor="@color/white"
+    app:textSize="14sp"
+    />
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="setStep1"
+    android:text="步骤1"
+    />
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="setStep2"
+    android:text="步骤2"
+    />
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="setStep3"
+    android:text="步骤3"
+    />
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="setStep4"
+    android:text="步骤4"
+    />
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="setStep5"
+    android:text="步骤5"
+    />
+
+</LinearLayout>
