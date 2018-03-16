@@ -6,25 +6,25 @@ StepView
 ![image](https://github.com/liangxingguo/StepView/blob/master/SAVE_20180315_173847.gif)
 
 
-[中文版在这里](https://github.com/zhangxuyang321/StepView/blob/master/StepView.md)
+[中文版在这里](https://github.com/liangxingguo/StepView/blob/master/stepView.md)
 
 
 When the steps are small, you can use the custom attribute marginLeft if you want to turn
 the view to the left of the two sides, and see the code below
 
 #### It is easy to use and can be used directly, as follows:
-<module.step.com.stepview.StepView
-    android:id="@+id/stepView"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_marginTop="10dp"
-    app:circleColor="@color/blue"
-    app:circleRadius="16dip"
-    app:count="5"
-    app:marginLeft="10dip"
-    app:signCount="7"
-    app:textColor="@color/white"
-    app:textSize="14sp"
+<module.step.com.stepview.StepView<br>
+    android:id="@+id/stepView"<br> 
+    android:layout_width="wrap_content" <br>
+    android:layout_height="wrap_content"<br>
+    android:layout_marginTop="10dp"<br>
+    app:circleColor="@color/blue"<br>  
+    app:circleRadius="16dip"<br> 
+    app:count="5"<br>
+    app:marginLeft="10dip"<br>
+    app:signCount="7"<br>
+    app:textColor="@color/white"<br>
+    app:textSize="14sp"<br>
     />
 
     CircleColor is big circles and the color of the dots, show bright color is, of course,
