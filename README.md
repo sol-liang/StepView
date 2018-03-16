@@ -3,7 +3,7 @@ StepView
 ==========
 
 ### The renderings are shown below
-![image](https://github.com/liangxingguo/StepView/blob/master/SAVE_20180315_173847.gif)
+![image](https://github.com/sol-liang/StepView/blob/master/20180316_111517.gif)
 
 
 [中文版在这里](https://github.com/liangxingguo/StepView/blob/master/stepView.md)

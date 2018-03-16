@@ -3,7 +3,7 @@ StepView
 ==========
 
 ### 效果图如下
-![image](https://github.com/liangxingguo/StepView/blob/master/SAVE_20180315_173847.gif)
+![image](https://github.com/sol-liang/StepView/blob/master/20180316_111517.gif)
 
 当步骤少的时候，如果想把view到两边的距离调大，可以使用自定义属性marginLeft，具体解析见下面代码
 
