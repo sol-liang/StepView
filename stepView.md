@@ -9,18 +9,18 @@ StepView
 
 #### 使用很简单，直接用即可，如下：
 <module.step.com.stepview.StepView
-    android:id="@+id/stepView"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_marginTop="10dp"
-    app:circleColor="@color/blue"
-    app:circleRadius="16dip"
-    app:count="5"
-    app:marginLeft="10dip"
-    app:signCount="7"
-    app:textColor="@color/white"
-    app:textSize="14sp"
-    />
+android:id="@+id/stepView"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_marginTop="10dp"
+app:circleColor="@color/blue"
+app:circleRadius="16dip"
+app:count="5"
+app:marginLeft="10dip"
+app:signCount="7"
+app:textColor="@color/white"
+app:textSize="14sp"
+/>
 
     其中，circleColor是大圆圈和小点的颜色，当然是指点亮的颜色，没点亮时默认灰色，circleRadius是大圆圈的半径，count
     是步骤数，marginLeft是View到两边的距离，signCount是两个圆圈之间小点的个数，textColor和textSize是圆圈里面数
