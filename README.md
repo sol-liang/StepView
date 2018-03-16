@@ -6,7 +6,7 @@ StepView
 ![image](https://github.com/sol-liang/StepView/blob/master/20180316_111517.gif)
 
 
-[中文版在这里](https://github.com/liangxingguo/StepView/blob/master/stepView.md)
+[中文版在这里](https://github.com/sol-liang/StepView/blob/master/stepView.md)
 
 
 When the steps are small, you can use the custom attribute marginLeft if you want to turn
