@@ -9,16 +9,27 @@ StepView
 
 #### 使用很简单，直接用即可，如下：
 <module.step.com.stepview.StepView
+
 android:id="@+id/stepView"
+
 android:layout_width="wrap_content"
+
 android:layout_height="wrap_content"
+
 android:layout_marginTop="10dp"
+
 app:circleColor="@color/blue"
+
 app:circleRadius="16dip"
+
 app:count="5"
+
 app:marginLeft="10dip"
+
 app:signCount="7"
+
 app:textColor="@color/white"
+
 app:textSize="14sp"
 />
 
