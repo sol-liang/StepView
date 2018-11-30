@@ -13,10 +13,6 @@ import android.support.v4.content.ContextCompat;
 import android.util.AttributeSet;
 import android.view.View;
 
-/**
- * @author liangxingguo (xingguo.liang@msxf.com).
- */
-
 public class StepView extends View {
   private float viewWidth;
   private Context context;
